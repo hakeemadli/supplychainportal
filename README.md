@@ -4,4 +4,4 @@ Create supply chain portal to updating information, upload delivery order and in
 Tech Stack Used :
 - Front-end : NextJS(React)
 - Backend : Django Rest-Framework (Python)
-  - DB : Sharepoint List
+- DB : Sharepoint List
